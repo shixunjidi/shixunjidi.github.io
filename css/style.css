@@ -159,7 +159,7 @@ nav ul li:hover{
 .youtiy_slider {
 	width:1000px;
 	min-width:980px;
-	height:335px;
+	height:445px;
 	position:relative;
 	overflow:hidden;
 	background:#fff;
@@ -179,7 +179,7 @@ nav ul li:hover{
 .youtiy_slider .bd li img {
 	display:block;
 	width:780px;
-	height:335px;
+	height:445px;
 }
 .youtiy_slider .tempWrap {
 	overflow:visible !important
@@ -216,7 +216,7 @@ nav ul li:hover{
 	z-index:1;
 	top:0;
 	width:100%;
-	height:335px;
+	height:445px;
 	cursor:pointer;
 }
 .youtiy_slider .prev {
@@ -233,7 +233,7 @@ nav ul li:hover{
 	left:0;
 	top:0;
 	width:100%;
-	height:335px;
+	height:445px;
 	background:#000;
 	filter:alpha(opacity=50);
 	opacity:0.5;
@@ -244,7 +244,7 @@ nav ul li:hover{
 	top:0;
 	z-index:1;
 	width:60px;
-	height:335px;
+	height:445px;
 }
 .youtiy_slider .pnBtn .arrow:hover {
 	filter:alpha(opacity=60);
